@@ -1,4 +1,4 @@
-# app
+# Foodie Deleivery app
 
 A new Flutter project.
 
