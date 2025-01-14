@@ -44,6 +44,9 @@ flutter run
 
 
 </table>
+## Contact
+For any questions or collaboration opportunities, feel free to reach out:
+- **Email**: ahmed.nig7@gmail.com
 
 ## Contributing
 Pull requests are welcomed.
