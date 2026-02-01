@@ -1,4 +1,4 @@
-# Foodie Deleivery app 🍔🚴‍♂️
+# Foodie Deleivery app
 
 ## Description  
 
