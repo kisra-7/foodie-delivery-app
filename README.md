@@ -1,19 +1,32 @@
 # Foodie Deleivery app 🍔🚴‍♂️
 
 ## Description  
-This food delivery app, built with Flutter, offers a seamless and delightful user experience with its modern and intuitive interface. Designed to connect hungry customers with their favorite restaurants, the app allows users to place orders and track deliveries with ease.  
 
-The app features beautiful, responsive UIs that ensure smooth navigation across different devices, making it ideal for users looking for quick and easy meal ordering. With comprehensive features and a user-friendly design, this app provides a fully functional and polished food delivery experience.  
-
-## Features  
-- **Order Tracking:** Real-time tracking of your order from preparation to delivery.  
-- **Secure Payments:** Multiple payment options for a secure and convenient checkout.  
-- **User-Friendly Interface:** Clean and intuitive design for a smooth experience.  
-- **Personalized Experience:** User accounts and order history for a tailored experience.  
-
-This food delivery app is a complete, polished solution that combines elegant design with powerful functionality to deliver a top-notch user experience.  
+ A Flutter-based food delivery application focused on creating a **smooth, responsive, and visually appealing user experience**.
 
 
+## Features
+- Modern food delivery UI
+- Smooth navigation and animations
+- Responsive layouts for different screen sizes
+- Clean and readable UI code structure
+
+## Project Goal
+The main goal of this project was to:
+- Improve Flutter UI skills
+- Build a realistic product-style interface
+- Focus on UX flow and visual consistency
+
+## What I learned
+- Structuring complex UI screens
+- Creating reusable widgets
+- Improving user experience through layout and spacing
+- Writing clean UI-focused Flutter code
+
+## Tech Stack
+- Flutter
+- Material UI
+- Custom widgets
 ## Installation
 
 clone project from repo and run using command.
